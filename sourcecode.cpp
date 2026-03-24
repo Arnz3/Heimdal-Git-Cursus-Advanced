@@ -13,7 +13,7 @@ public class Main{
 
     public void Run(){
         while(true){
-             std::cout << "I am working over here!!!";
+             std::cout << "Allo oe ist krl";
         }
     }
 }
